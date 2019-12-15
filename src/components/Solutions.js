@@ -26,7 +26,7 @@ export default class Solutions extends Component {
 							</p>
 							<img src = "images/Map-of-e-waste-legislation.jpg"/>
 							<p>
-								There are currently 25 states with e-waste laws (plus the District of Columbia). States highlighted in orange have passed some type of e-waste legislation. Click each individual state for state-specific information. Or see below for a comprehensive list.
+								There are currently 25 states with e-waste laws (plus the District of Columbia). States highlighted in orange have passed some type of e-waste legislation. See below for a comprehensive list.
 							</p>
 							<h5>Year E-Waste Laws Were Passed:</h5>
 							<ul>
