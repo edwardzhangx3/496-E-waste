@@ -12,7 +12,7 @@ let webData = {
         },
         {
           "name":"github",
-          "url":"https://github.com/ggyc1998/ewaste-web",
+          "url":"https://github.com/ggyc1998/496-E-waste",
           "className":"fa fa-github"
         },
         {
@@ -30,7 +30,7 @@ let webData = {
       {
         "name":"What is E-waste?",
         "description":"Common E-waste Perception",
-        "content":"E-waste is a popular, informal name for electronic products nearing the end of their useful life. Computers, televisions, VCRs, stereos, copiers, and fax machines are common electronic products. The vast majority of e-waste can be reused, refurbished, scrapped for parts, or recycled. However, in the US, only 20% of Americans properly dispose of their e-waste, and only a fraction of that 20% that is properly disposed of is recycled or reused within the US.5 Ideally, proper disposal of e-waste would take place in factories where recycling is undertaken by machines with proper environmental regulations and procedures to protect workers and the local environment from exposure to harmful materials and pollutants. Often, however, that isn't the case.",
+        "content":"E-waste is a popular, informal name for electronic products nearing the end of their useful life. Computers, televisions, VCRs, stereos, copiers, and fax machines are common electronic products. The vast majority of e-waste can be reused, refurbished, scrapped for parts, or recycled. However, in the US, only 20% of Americans properly dispose of their e-waste, and only a fraction of that 20% that is properly disposed of is recycled or reused within the US.Ideally, proper disposal of e-waste would take place in factories where recycling is undertaken by machines with proper environmental regulations and procedures to protect workers and the local environment from exposure to harmful materials and pollutants. However, that often isn't the case.",
         "imgurl":"images/meta-chart.png",
         "url": "https://it.umich.edu/projects/sitemaker/"
       },
