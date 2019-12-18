@@ -25,7 +25,6 @@ class App extends Component {
         <Flow/>
         <Photos />
         <AdvisorPhotos />
-        <Testimonials webData={webData}/>
         <References />
         <ContactUs webData={webData}/>
         <Footer webData={webData}/>
