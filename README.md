@@ -1,6 +1,6 @@
 Deployment with netlify
     netlify deploy
-
+check it out: https://fervent-bartik-383468.netlify.com/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
